@@ -1,6 +1,5 @@
-# AZ-900 Microsoft Azure Fundamentals: Ninja Training
-
-Welcome to the **AZ-900 Microsoft Azure Fundamentals Ninja Training**! This repository is designed to be your comprehensive, one-stop resource for preparing for the AZ-900 certification exam.
+# AZ-900 Microsoft Azure Fundamentals
+Welcome to the **AZ-900 Microsoft Azure Fundamentals **! This repository is designed to be your comprehensive, one-stop resource for preparing for the AZ-900 certification exam.
 
 **Maintained by [Cloud360 Training](https://cloud360.co)** - Your trusted partner for Azure certification preparation. 
 
