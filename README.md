@@ -1,6 +1,8 @@
 # AZ-900 Microsoft Azure Fundamentals: Ninja Training
 
-Welcome to the **AZ-900 Microsoft Azure Fundamentals Ninja Training**! This repository is designed to be your comprehensive, one-stop resource for preparing for the AZ-900 certification exam. 
+Welcome to the **AZ-900 Microsoft Azure Fundamentals Ninja Training**! This repository is designed to be your comprehensive, one-stop resource for preparing for the AZ-900 certification exam.
+
+**Maintained by [Cloud360 Training](https://cloud360.co)** - Your trusted partner for Azure certification preparation. 
 
 Following the popular "Microsoft Ninja Training" format, this guide is structured to take you from a beginner to an Azure Fundamentals expert through a carefully curated learning path.
 
@@ -8,9 +10,11 @@ Following the popular "Microsoft Ninja Training" format, this guide is structure
 
 This training program prioritizes resources in the following order to ensure you get the most accurate and effective preparation:
 1. **Microsoft Official Documentation & Learn Modules** (Highest Priority)
-2. **Cloud360 Training Videos & Resources**
+2. **[Cloud360 Training](https://cloud360.co) Videos & Resources**
 3. **Hands-on Labs & Sandbox Exercises**
 4. **Community Resources & Practice Tests**
+
+This guide is created and maintained by **[Cloud360 Training](https://cloud360.co)**, offering comprehensive Azure certification courses and training programs.
 
 ## 📚 Course Structure
 
@@ -41,7 +45,7 @@ Theory is important, but practical experience is crucial.
 ## 📺 Video Training
 
 Visual learners can benefit from our curated video playlists.
-* **[Cloud360 & Official Video Resources](./VIDEOS/README.md)**: Comprehensive video training links, prioritizing Cloud360's AZ-900 course.
+* **[Cloud360 & Official Video Resources](./VIDEOS/README.md)**: Comprehensive video training links, prioritizing [Cloud360's AZ-900 course](https://cloud360.co).
 
 ## 📝 Practice & Assessment
 
@@ -55,6 +59,12 @@ Test your knowledge before the real exam.
 3. **Watch the associated Cloud360 videos** to reinforce the concepts.
 4. **Complete the Hands-on Labs** to gain practical experience.
 5. **Take the Practice Assessments** to gauge your readiness.
+
+## 📚 About Cloud360 Training
+
+**[Cloud360 Training](https://cloud360.co)** provides comprehensive, hands-on training for Microsoft Azure certifications. Our expert instructors and curated learning paths help professionals achieve their certification goals.
+
+**Explore more at [https://cloud360.co](https://cloud360.co)**
 
 ---
 *Disclaimer: This repository is an independent study guide and is not officially affiliated with Microsoft. Always refer to the [official Microsoft AZ-900 exam page](https://learn.microsoft.com/en-us/credentials/certifications/exams/az-900/) for the most up-to-date information.*
