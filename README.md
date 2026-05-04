@@ -15,6 +15,17 @@ This training program prioritizes resources in the following order to ensure you
 
 This guide is created and maintained by **[Cloud360 Training](https://cloud360.co)**, offering comprehensive Azure certification courses and training programs.
 
+## 📊 Cloud Computing Fundamentals Overview
+
+**Start here!** Before diving into Azure-specific content, understand the fundamentals of cloud computing:
+
+📖 **[Cloud Computing Fundamentals for Beginners](./CLOUD-COMPUTING-FUNDAMENTALS.md)** - Comprehensive visual guide covering:
+* What is cloud computing and its key characteristics
+* Core components (Compute, Storage, Databases, Networking, Security)
+* Service models (SaaS, PaaS, IaaS)
+* Deployment models (Public, Private, Hybrid)
+* Key benefits and real-world applications
+
 ## 📚 Course Structure
 
 The training is divided into modules that directly map to the official AZ-900 exam skills measured (updated January 2026).
