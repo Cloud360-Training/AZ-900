@@ -26,7 +26,7 @@ This guide is created and maintained by **[Cloud360 Training](https://cloud360.c
 * Deployment models (Public, Private, Hybrid)
 * Key benefits and real-world applications
 
-## 📚 Course Structure
+## 📚 Course Structure 
 
 The training is divided into modules that directly map to the official AZ-900 exam skills measured (updated January 2026).
 
